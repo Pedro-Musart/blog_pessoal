@@ -6,6 +6,7 @@
     <img src="https://i.imgur.com/w8tTOuT.png" title="source: imgur.com" /> 
 </div>
 
+<br />
 
 
 Acesse a API aqui: [Blog Pessoal API](https://blogpessoal-wah0.onrender.com/)
@@ -42,7 +43,7 @@ Observação: O carregamento do site pode ser inicialmente lento devido à hospe
 -   **Dependências:** Incluem Spring Web, Spring Boot Devtools, Validation, Spring Data JPA, MySQL Driver, Spring Security, MySQL, JSON Web Token, JUnit, H2 Database, Spring Doc e PostgreSQL.
 -   **Documentação:** Utiliza o Swagger UI para documentação da API.
   
-<br /><br />
+<br />
 
 ## Diagrama de Classes
 
