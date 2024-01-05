@@ -16,7 +16,7 @@ O Blog Pessoal é uma API desenvolvida com foco acadêmico, empregando conceitos
 ## Como testar o projeto?
 
 1.  Ao acessar o site, será solicitado um usuário, que provavelmente ainda não foi criado.
-2.  Para criar um usuário, utilize o endpoint [Cadastrar Usuário](https://blogpessoal-wah0.onrender.com/usuarios/cadastrar).
+2.  Para criar um usuário, utilize o endpoint https://blogpessoal-wah0.onrender.com/usuarios/cadastrar.
 3.  No corpo da requisição, envie as informações no formato JSON:
     
     jsonCopy code
@@ -28,7 +28,8 @@ O Blog Pessoal é uma API desenvolvida com foco acadêmico, empregando conceitos
       "foto": "https://i.imgur.com/Tk9f10K.png"
     }` 
     
-4.  Após o cadastro, insira essas mesmas informações na sessão de login e explore toda a documentação da API.
+4. Após o cadastro, insira essas mesmas informações na sessão de login e explore toda a documentação da API.
+5. Se quiser utilizar os outros HTTP Methods da Api, faça login e guarde seu token (ele será exigido nas outras requisições) 
 
 Observação: O carregamento do site pode ser inicialmente lento devido à hospedagem gratuita; o Render desliga a aplicação se não houver acessos nos últimos 15 minutos.
 
